@@ -1,2 +1,2 @@
-Arts wtf
+arts-wtf
 ========
